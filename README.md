@@ -5,3 +5,5 @@ En este repositorio se encuentra una breve explicacion de los principios Solid p
 
 ## Integrantes
 - David Sanchez Acero __20232020049__
+
+![diagrama de clase](out\principiosSolid\1\1.png)
